@@ -22,6 +22,9 @@ A simple, real-time trading dashboard built with [Streamlit](https://streamlit.i
 6. **Refresh Data**  
    Reload the dashboard to update positions and portfolio data on demand.
 
+![Dashboard Screenshot 1](dashb2.png)
+![Dashboard Screenshot 2](dash2.png)
+
 ---
 
 ## Getting Started
