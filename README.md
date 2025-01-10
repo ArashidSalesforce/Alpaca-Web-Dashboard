@@ -1,4 +1,4 @@
-# Real-Time Trading Dashboard
+# Real-Time Alpaca Trading Dashboard
 
 A simple, real-time trading dashboard built with [Streamlit](https://streamlit.io/) and [Alpaca](https://alpaca.markets/) APIs. This application allows users to view current positions, monitor portfolio growth, stream real-time market prices, place buy/sell orders, and liquidate all positions through Alpaca’s paper trading endpoint.
 
